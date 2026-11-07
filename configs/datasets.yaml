@@ -1,0 +1,32 @@
+# Datasets públicos do Roboflow Universe usados no treino (todos CC BY 4.0).
+# version: null = baixa a versão mais recente publicada.
+# Os nomes de classe originais são convertidos para as 2 classes do Rua Acesa
+# pelas regras em scripts/merge_remap.py; classes sem estado (ex.: "Pole") são descartadas.
+#
+# Avaliado e descartado:
+#   datasets-cobjh/light_off — ~5 fotos de banco de imagem rotacionadas centenas de vezes,
+#     com caixas em prédios; ensinaria o modelo errado.
+#   streetlight-xs545/streetlightdetection — projeto de classificação, sem caixas.
+#   sba-pothole/poles-dataset-e00t2 — versão publicada só tem a classe "street light" (sem estado).
+#   project1-5oq3e/streetlights-zzbyr — caixas do tamanho da imagem inteira (rótulo de classificação).
+datasets:
+  - workspace: teja-swloz
+    project: light-detection-ebxml
+    version: null
+    url: https://universe.roboflow.com/teja-swloz/light-detection-ebxml
+  - workspace: teja-swloz
+    project: pole-p1ls9
+    version: null
+    url: https://universe.roboflow.com/teja-swloz/pole-p1ls9
+  - workspace: gb-edrki
+    project: streetlight-igcyd
+    version: null
+    url: https://universe.roboflow.com/gb-edrki/streetlight-igcyd
+  - workspace: datasets-cobjh
+    project: street_light_on
+    version: null
+    url: https://universe.roboflow.com/datasets-cobjh/street_light_on
+  - workspace: project-sbybw
+    project: streetlighttest
+    version: null
+    url: https://universe.roboflow.com/project-sbybw/streetlighttest

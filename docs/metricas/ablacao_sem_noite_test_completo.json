@@ -1,0 +1,29 @@
+{
+  "cenario": "ablacao_sem_noite_test_completo",
+  "pesos": "../runs/ablacao_sem_noite/weights/best.pt",
+  "imagens": 281,
+  "mAP50": 0.7607,
+  "mAP50_95": 0.4056,
+  "precisao": 0.7234,
+  "recall": 0.6945,
+  "por_classe": {
+    "poste_aceso": {
+      "precisao": 0.6537,
+      "recall": 0.5992,
+      "mAP50": 0.6878,
+      "mAP50_95": 0.3284
+    },
+    "poste_apagado": {
+      "precisao": 0.7931,
+      "recall": 0.7898,
+      "mAP50": 0.8336,
+      "mAP50_95": 0.4829
+    }
+  },
+  "velocidade_ms": {
+    "preprocess": 0.43,
+    "inference": 5.49,
+    "loss": 0.0,
+    "postprocess": 0.33
+  }
+}

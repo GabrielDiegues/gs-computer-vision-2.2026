@@ -1,0 +1,29 @@
+{
+  "cenario": "test_completo",
+  "pesos": "/home/gabriel-diegues/dev/fiap/computer-vision/segundo-semestre/gs/models/best.pt",
+  "imagens": 281,
+  "mAP50": 0.7656,
+  "mAP50_95": 0.4107,
+  "precisao": 0.6901,
+  "recall": 0.7399,
+  "por_classe": {
+    "poste_aceso": {
+      "precisao": 0.6453,
+      "recall": 0.642,
+      "mAP50": 0.6914,
+      "mAP50_95": 0.3287
+    },
+    "poste_apagado": {
+      "precisao": 0.735,
+      "recall": 0.8378,
+      "mAP50": 0.8397,
+      "mAP50_95": 0.4926
+    }
+  },
+  "velocidade_ms": {
+    "preprocess": 0.45,
+    "inference": 5.48,
+    "loss": 0.0,
+    "postprocess": 0.34
+  }
+}

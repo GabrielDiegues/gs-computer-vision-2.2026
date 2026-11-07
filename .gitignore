@@ -1,0 +1,14 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+datasets/
+runs/
+*.pt
+!models/best.pt
+.ipynb_checkpoints/
+*.log
+
+# material de referência da equipe (fora do repositório)
+Desafio-FIAP-GS-CitizenTech 4ES.pdf
+Rua Acesa — Ficha Técnica do MVP.md
