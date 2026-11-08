@@ -30,7 +30,7 @@ W, H, FPS = 1920, 1080, 30
 FADE = 8  # quadros de fade em cada ponta dos segmentos
 OUT = ROOT / "docs" / "video" / "demo_rua_acesa.mp4"
 REPO = "github.com/GabrielDiegues/gs-computer-vision-2.2026"
-TEAM = ["Gabriel Diegues Figueiredo Rocha — RM 55078", "Pedro Henrique Palladino — RM 551180",
+TEAM = ["Gabriel Diegues Figueiredo Rocha — RM 550788", "Pedro Henrique Palladino — RM 551180",
         "Pedro Henrique Pontes — RM 98036", "Raí Gumieri dos Santos — RM 98287"]
 
 BG, PANEL, TERM = (15, 20, 33), (28, 35, 54), (8, 11, 20)

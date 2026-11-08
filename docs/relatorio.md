@@ -3,7 +3,7 @@
 **Global Solution 2026.2 · CitizenTech · Applied Computer Vision**
 Engenharia de Software · 4º ano · FIAP · Professores Arnaldo Viana e Paulo Rodrigues
 
-**Integrantes:** Gabriel Diegues Figueiredo Rocha (RM 55078) · Pedro Henrique Palladino (RM 551180) · Pedro Henrique Pontes (RM 98036) · Raí Gumieri dos Santos (RM 98287)
+**Integrantes:** Gabriel Diegues Figueiredo Rocha (RM 550788) · Pedro Henrique Palladino (RM 551180) · Pedro Henrique Pontes (RM 98036) · Raí Gumieri dos Santos (RM 98287)
 
 **Repositório:** [github.com/GabrielDiegues/gs-computer-vision-2.2026](https://github.com/GabrielDiegues/gs-computer-vision-2.2026) · **Vídeo:** _link do YouTube (não listado)_
 

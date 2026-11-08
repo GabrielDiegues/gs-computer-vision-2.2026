@@ -185,7 +185,7 @@ samples/        imagens do teste para a demo e a API (as "noite_sintetica" são 
 
 | Nome | RM |
 | --- | --- |
-| Gabriel Diegues Figueiredo Rocha | 55078 |
+| Gabriel Diegues Figueiredo Rocha | 550788 |
 | Pedro Henrique Palladino | 551180 |
 | Pedro Henrique Pontes | 98036 |
 | Raí Gumieri dos Santos | 98287 |
